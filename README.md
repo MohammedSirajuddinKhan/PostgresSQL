@@ -1,0 +1,3 @@
+# I am gaining hands-on practice for SQL using PostgreSQL to be more proficient.
+## And I will stop learning this till I gain enough exposure to this tech...
+### It's me Siraj... See you at the top..!
